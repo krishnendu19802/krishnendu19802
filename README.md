@@ -1,6 +1,6 @@
 -  Hi, I’m Krishnendu Bhattacharyya
 -  I’m interested in web development and competitive programming
--  I’m looking to collaborate on various projects on c++,python,html
+-  I’m looking to collaborate on various projects on c,c++,python,web 
 
 
 <!---
